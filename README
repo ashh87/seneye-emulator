@@ -1,3 +1,8 @@
+seneye-emulator READMIN
+---------------
+This will be a modification of the usbredir server to run a usermode program
+as a usb device visible to qemu.
+
 usbredir README
 ---------------
 
